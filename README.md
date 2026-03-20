@@ -17,7 +17,7 @@ World Bank data on international debt.
 
 ## Technologies used
 - SQL (queries)
-- Jupyter (.ipynb)
+- Jupyter Notebook (.ipynb)
 
 ## Files
 - analysis.ipynb → full analysis
