@@ -20,5 +20,5 @@ World Bank data on international debt.
 - Jupyter Notebook (.ipynb)
 
 ## Files
-- analysis.ipynb → full analysis
-- queries.sql → SQL queries
+- analysis.ipynb : full analysis
+- queries.sql : SQL queries
